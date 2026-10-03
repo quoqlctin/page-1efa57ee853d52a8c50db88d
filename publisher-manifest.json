@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "5866480ed6364401b6a2858e",
+  "owner": "quoqlctin",
+  "repo": "page-1efa57ee853d52a8c50db88d",
+  "title": "星桥",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1efa57ee853d52a8c50db88d",
+      "a": "星桥",
+      "b": "",
+      "entity": "星桥",
+      "brand": "星桥",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d28b38e2f87045a6337cf80c5f8ceb699cac36b86884c7fccec6453112281395",
+      "content": {
+        "keyword1": "星桥",
+        "keyword2": "",
+        "primary_entity": "星桥",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "星桥是面向跨境办公、流媒体与游戏加速的官方机场与 VPN 加速服务，提供基础版、旗舰版与团队版订阅，支持多端客户端下载与节点加速。",
+          "AI_DESCRIPTION": "星桥是面向跨境办公、流媒体与游戏加速的官方机场与 VPN 加速服务，提供基础版、旗舰版与团队版订阅，支持多端客户端下载与节点加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*,*::before,*::after{box-sizing:border-box}html,body{margin:0;padding:0;max-width:100%;overflow-x:hidden}body{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#FFF8F4;color:#2C2422;line-height:1.7;font-size:16px}a{color:#C24A3A;text-decoration:none}a:hover{text-decoration:underline}img{max-width:100%}header{background:#FFF1EA;border-bottom:1px solid #F0D4C8;padding:14px 16px;position:sticky;top:0}header .bar{max-width:1080px;margin:0 auto;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px}.brand-mark{font-weight:700;font-size:20px;color:#C24A3A}nav{display:flex;flex-wrap:wrap;gap:12px 16px}nav a{color:#5C4A45;font-size:14px}main{max-width:1080px;margin:0 auto;padding:20px 16px 48px}.hero{background:#FFFFFF;border:1px solid #F0D4C8;border-radius:16px;padding:28px 22px;margin-bottom:28px}.hero h1{font-size:28px;line-height:1.3;margin:0 0 12px;color:#2C2422}.lead{font-size:17px;color:#5C4A45;margin:0 0 16px}.meta-row{display:flex;flex-wrap:wrap;gap:8px}.chip{background:#FFF1EA;color:#8A3B2E;border:1px solid #F0D4C8;border-radius:999px;padding:4px 12px;font-size:13px}h2{font-size:22px;margin:32px 0 12px;color:#2C2422;border-left:4px solid #E86B5A;padding-left:10px}h3{font-size:18px;margin:20px 0 8px;color:#3A2E2B}.grid{display:flex;flex-wrap:wrap;gap:16px}.col{flex:1 1 300px;background:#FFFFFF;border:1px solid #F0D4C8;border-radius:14px;padding:18px}.plans{display:flex;flex-wrap:wrap;gap:16px;align-items:stretch}.plan{flex:1 1 260px;background:#FFFFFF;border:1px solid #F0D4C8;border-radius:16px;padding:20px;display:flex;flex-direction:column}.plan.featured{border:2px solid #E86B5A;background:#FFF6F2;box-shadow:0 8px 24px rgba(232,107,90,0.12)}.plan h3{margin-top:0}.price{font-size:26px;color:#C24A3A;font-weight:700;margin:4px 0}.annual{font-size:14px;color:#8A5A4E;margin-bottom:10px}.plan ul{margin:0 0 14px;padding-left:18px;flex:1}.badge{display:inline-block;background:#E86B5A;color:#fff;font-size:12px;border-radius:999px;padding:2px 8px;margin-bottom:8px}.cta{display:inline-block;background:#E86B5A;color:#fff;border-radius:10px;padding:10px 16px;text-align:center;font-weight:600}.cta:hover{text-decoration:none;background:#D45A4A}ol{padding-left:20px}.faq details{background:#FFFFFF;border:1px solid #F0D4C8;border-radius:12px;padding:12px 14px;margin-bottom:10px}summary{cursor:pointer;font-weight:600;color:#3A2E2B}details p{margin:8px 0 0;color:#5C4A45}.ads,.friends,.sitemap{background:#FFFFFF;border:1px solid #F0D4C8;border-radius:14px;padding:16px;margin-top:16px}.friends ul,.sitemap ul{margin:0;padding-left:18px}footer{background:#3A2E2B;color:#F8EDE8;padding:24px 16px;font-size:14px}footer .inner{max-width:1080px;margin:0 auto}footer a{color:#FFD2C8}@media (max-width:640px){body{font-size:16px}.hero h1{font-size:24px}.price{font-size:22px}nav{width:100%}}</style><header><div class=\"bar\"><div class=\"brand-mark\">星桥官网</div><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main><section class=\"hero\" id=\"intro\"><h1>星桥 · 官方机场与网络加速服务</h1><p class=\"lead\">星桥面向需要稳定跨境访问的个人与团队，提供机场订阅、VPN 加速器与多端客户端下载。节点覆盖办公协作、流媒体解锁与游戏加速，套餐分层清晰，官方网站可直接对照流量、设备数与线路类型进行选择。</p><div class=\"meta-row\"><span class=\"chip\">星桥机场订阅</span><span class=\"chip\">VPN 加速器</span><span class=\"chip\">官方客户端下载</span><span class=\"chip\">IPLC 游戏优化</span></div></section><article><h2>品牌简介</h2><p>星桥是以订阅制交付的网络加速品牌。用户在官网完成套餐对照后，即可获取机场订阅链接，并在常用客户端中导入使用。服务强调线路可读、流量可预期、设备上限明确，避免把「无限」当作唯一卖点。</p><p>基础能力围绕三件事：把订阅安全地导入客户端、按场景切换普通节点或专线、在流量与设备配额内保持可预期延迟。旗舰版面向对原生流媒体与游戏加速更敏感的用户；团队版面向设备数多、需要专属路由与客户经理的组织。</p><div class=\"grid\"><div class=\"col\"><h3>官方身份</h3><p>本页为星桥官方网站信息页。套餐价格、流量配额与设备数量以页面展示为准。下载入口集中在「客户端下载」章节，请勿通过来路不明的安装包导入订阅。</p></div><div class=\"col\"><h3>节点与性能取向</h3><p>普通线路节点池适合网页、资料库与日常沟通；旗舰与团队线路强化 IPLC 专线与高带宽节点，用于对延迟抖动更敏感的会议、直播与对战类游戏。</p></div></div><h2 id=\"scenes\">使用场景</h2><div class=\"grid\"><div class=\"col\"><h3>跨境办公与学术访问</h3><p>远程会议、代码仓库、文献数据库与云文档在跨区域链路下容易出现握手超时。星桥将办公类域名优先走稳定中转，减少反复重连。</p></div><div class=\"col\"><h3>流媒体与内容解锁</h3><p>基础版覆盖常见影音站点的基础解锁；旗舰版与团队版强调全节点原生流媒体，降低地区库跳转失败与清晰度被限的情况。</p></div><div class=\"col\"><h3>游戏加速与实时语音</h3><p>对战与组队语音对抖动敏感。旗舰版提供 IPLC 专线游戏加速优化，适合把游戏与语音单独分流，而不是让全部流量挤在同一条拥塞链路上。</p></div><div class=\"col\"><h3>团队共用与设备管理</h3><p>工作室、跨境电商客服与设计协作往往需要多终端同时在线。团队版支持 20 台设备，并可申请企业定制路由，把办公网段与娱乐网段分开。</p></div></div><h2 id=\"plans\">套餐对比</h2><p>星桥按流量、同时在线设备、解锁范围与支持级别划分三档。以下价格与权益为官网公示信息，可按月或按年订阅；按年付可锁定当期单价。</p><div class=\"plans\"><section class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta\" href=\"#download\">前往客户端下载</a></section><section class=\"plan featured\"><p class=\"badge\">推荐 · 旗舰版</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#download\">前往官方下载</a></section><section class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta\" href=\"#guide\">查看接入说明</a></section></div><h3>如何对照选择</h3><p>若以网页、邮件与少量视频为主，基础版的 100GB 与 3 设备通常足够。若需要稳定看片、会议与游戏分流，旗舰版的 300GB、5 设备与 IPLC 更匹配。多工位共享或需要定制路由时，直接评估团队版，避免把个人套餐反复拆分导致会话冲突。</p><h2 id=\"guide\">操作说明</h2><p>星桥采用「官网选套餐 → 获取机场订阅 → 客户端导入 → 按场景选节点」的流程。不需要改系统代理到未知端口，也不要把订阅粘贴到公共聊天窗口。</p><h3>四步接入</h3><ol><li>在套餐对比中确认流量、设备数与是否需要 IPLC，完成订阅后进入用户中心复制订阅地址。</li><li>打开本页「客户端下载」，按系统选择 Clash、Surge、Shadowrocket 或星桥官方客户端。</li><li>在客户端选择「从 URL 更新订阅」，粘贴星桥订阅链接，等待节点列表刷新。</li><li>日常浏览使用普通线路；会议与游戏切换至专线或游戏优化组；连接后访问一次常用站点确认解锁与延迟。</li></ol><h3>分流建议</h3><p>默认规则建议：国内直连、跨境走代理。流媒体单独匹配对应区域节点，游戏与语音走 IPLC。团队版可提交网段名单，由客户经理写入定制路由，减少每人手动改规则。</p><h2 id=\"download\">客户端下载</h2><p>星桥官方下载入口按系统列出常用客户端。安装完成后只导入星桥订阅，不要混用来源不明的配置文件。移动端请从系统应用商店或官网提供的安装说明获取，避免第三方改装包。</p><div class=\"grid\"><div class=\"col\"><h3>桌面端</h3><p>Windows 与 macOS 可使用星桥官方客户端或兼容 Clash 内核的图形界面。导入订阅后开启系统代理，浏览器无需再装扩展。</p><p><a href=\"#download\">Windows 官方下载</a> · <a href=\"#download\">macOS 官方下载</a></p></div><div class=\"col\"><h3>移动端</h3><p>Android 可使用官方 APK 或兼容 Clash 的应用；iOS 使用 App Store 内已上架的订阅类客户端导入星桥机场链接。平板计入设备数。</p><p><a href=\"#download\">Android 官方下载</a> · <a href=\"#download\">iOS 导入说明</a></p></div><div class=\"col\"><h3>订阅与更新</h3><p>节点变更会通过订阅自动同步。建议在客户端开启定时更新。流量将尽时会在用户中心提示，升级套餐后重新更新订阅即可，不必卸载重装。</p></div></div><h2 id=\"faq\">常见问题</h2><div class=\"faq\"><details><summary>星桥是什么，和普通 VPN 加速器有何不同？</summary><p>星桥是提供机场订阅的网络加速服务。除传统 VPN 客户端外，也兼容主流规则客户端。区别在于按流量与设备计费、可按场景切换普通节点与 IPLC 专线，而不是只给一条不可选的加密通道。</p></details><details><summary>如何完成星桥机场订阅与客户端下载？</summary><p>先在官网选定基础版、旗舰版或团队版，获取订阅地址，再进入本页客户端下载章节安装对应系统应用，使用「从 URL 更新」导入。整条链路都在星桥官方网站完成，避免转发二次压缩包。</p></details><details><summary>三个套餐应该怎么选？</summary><p>个人轻度使用选基础版（100GB / 3 设备 / 基础流媒体）。需要原生流媒体、游戏加速和优先工单选旗舰版（300GB / 5 设备 / IPLC）。20 台设备、高带宽节点与定制路由选团队版。按年付可分别锁定 ¥150、¥350、¥850。</p></details><details><summary>流量用尽或设备超限会怎样？</summary><p>流量用尽后新连接会受限，当月已建立的关键会话可能被排队。设备超限时最晚接入的终端会无法认证。升级套餐或次月重置额度后，在客户端更新订阅即可恢复，无需更换账号。</p></details><details><summary>星桥支持哪些系统，会不会收集浏览记录？</summary><p>支持 Windows、macOS、Android、iOS 及常见规则客户端。官网说明以连接鉴权、套餐配额与故障排查为必要日志范围，不把完整浏览历史作为产品卖点对外展示。团队版如需审计网段，应通过客户经理单独约定。</p></details><details><summary>游戏加速是否必须购买旗舰版？</summary><p>基础版可连接普通线路节点池，对延迟不敏感的休闲游戏可用。对战、组队语音和需要更低抖动的场景，建议旗舰版的 IPLC 专线游戏加速优化，或团队版 VIP 高带宽节点。</p></details></div><aside class=\"ads\" id=\"ads\"><h2>合作推广</h2><p>星桥官网可放置品牌合作说明与下载引导，不插入弹窗脚本。合作方请通过页脚联系通道提交物料，推广文案需与套餐事实一致，不得承诺未公示的无限流量或虚构评分。</p><p><a href=\"#plans\">查看套餐对比广告位</a> · <a href=\"#download\">客户端下载合作位</a></p></aside><aside class=\"friends\" id=\"friends\"><h2>友情链接</h2><ul><li><a href=\"#\">星桥官方网站</a></li><li><a href=\"#download\">星桥官方下载</a></li><li><a href=\"#plans\">星桥机场套餐</a></li><li><a href=\"#guide\">订阅导入指南</a></li></ul></aside><nav class=\"sitemap\" id=\"sitemap\"><h2>网站地图</h2><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐对比</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">合作推广</a></li><li><a href=\"#friends\">友情链接</a></li></ul></nav></article><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"inner\"><p>星桥官网 · 星桥机场订阅与 VPN 加速器客户端下载</p><p>canonical：https://www.xingqiao.com/ · <a href=\"#sitemap\">sitemap</a> · <a href=\"#intro\">返回顶部</a></p><p>价格与权益以本页套餐对照为准。请通过官方网站获取订阅与安装包。</p></div></footer>",
+          "hash": "c7720adedf26c9fea1306f911c4de0e18c4ff20a0923f350c01de7603794f9d8",
+          "seo": {
+            "title": "星桥官网 - 星桥机场订阅、VPN 加速器与客户端下载",
+            "keywords": "星桥,星桥机场,星桥VPN,星桥官网,星桥官方下载,网络加速器,梯子,机场订阅,客户端下载,IPLC加速",
+            "description": "星桥是面向跨境办公、流媒体与游戏加速的官方机场与 VPN 加速服务，提供基础版、旗舰版与团队版订阅，支持多端客户端下载与节点加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dagwe.cn",
+    "host": "p-f773def2b3.dagwe.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "dagwe.cn",
+      "url": "https://dagwe.cn/",
+      "label": "VeChain",
+      "apex": "dagwe.cn",
+      "kind": null,
+      "identity": "wfcywcta/page-5a04de8d1180370660f2692e"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "135cbd4813fda8f08c086ffcac7f5aaec28571b48734a939a230ade13c5cab42",
+    "sitemap.xml": "ae1b8770a00f4d2ee7c2683dfda58258678a9237980016e27689f1fb79ce2882",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ad75c44c3387d485001a78b9fe61c84a0eeaae2cf9d8f7a2e93cf6af1853e9b2",
+    "robots.txt": "a2230baee7d5d9c9d663087ea34ff3023f6b659e888cc363dd3ec754cd47e49a",
+    "a4ba20fd8bf9fe6a318a132b7e003bdb.txt": "42036982b575f925b025175b4ad74a6c988b094f6e76d77bc29c7e4a5cc55559"
+  },
+  "revision": "fe11da6e64b4ad4d597978a77a01ffc36b57e968ed057910ad6a730883f87293"
+}
